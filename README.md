@@ -1,5 +1,7 @@
 # Nykaa-Clone
 
+## Deploy Link   https://voluble-liger-007145.netlify.app/
+
 Home page 
 <br/>
 <img src="https://www.mohitecommerce.com/wp-content/uploads/2022/03/sell-on-nykaa.jpg"></img>
