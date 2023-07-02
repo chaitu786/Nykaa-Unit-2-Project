@@ -1,6 +1,6 @@
 # Nykaa-Clone
 
-## Deploy Link   https://voluble-liger-007145.netlify.app/
+## Deploy Link   [https://voluble-liger-007145.netlify.app/](https://idyllic-nougat-67db8e.netlify.app/)
 
 Home page 
 <br/>
